@@ -25,3 +25,7 @@ Peter is listed at https://phptek.io/speakers. Click the links for info about hi
 ##
 Note-able Links:
 - Peter is listed at [https://phptek.io/speakers](https://phptek.io/speakers). Click the links for info about his talks @ PHP Tek.
+
+![Welcome!](/laravel_toronto_2025mar20_03.jpg)
+![Presentation](/laravel_toronto_2025mar20_01.jpg)
+![Post presentation round table](/laravel_toronto_2025mar20_02.jpg)
